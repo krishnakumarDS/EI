@@ -165,3 +165,7 @@ Available Assignments:
 * Applied OOP concepts and SOLID principles to create a *Virtual Classroom Manager* in TypeScript.
 * Improved modular design, problem-solving, and full-stack TypeScript development skills.
 * Gained experience with repository pattern, service layer architecture, and error handling.
+
+## AUTHOR 
+* *NAME*: Krishna Kumar DS*
+* *Languages*: Software Developer | Web Designer | AI Developer
